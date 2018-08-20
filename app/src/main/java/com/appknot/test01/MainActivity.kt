@@ -28,6 +28,10 @@ class MainActivity : AppCompatActivity() {
         // ho 2 클래스 생성
 
         // ho 작성작성
+
+
+        // ctrine memo01
+
     }
 
 
