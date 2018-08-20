@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
 
 
       // this is master
+      
+      
+      // modyfy by web
     }
 }
