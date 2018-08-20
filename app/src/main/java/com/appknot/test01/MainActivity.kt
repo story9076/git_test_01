@@ -12,8 +12,6 @@ class MainActivity : AppCompatActivity() {
 
 
       //gil start
-
-
         // gil change 1
 
     }
