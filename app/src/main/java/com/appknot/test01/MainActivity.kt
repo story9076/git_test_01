@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
+ㄴ;리;니ㅓㄹㄴㅇㄹㄴㅇㄹㄴㅇㄹ
 
       // this is main
     //gil start
