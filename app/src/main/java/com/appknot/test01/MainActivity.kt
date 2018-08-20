@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 ㄴ;리;니ㅓㄹㄴㅇㄹㄴㅇㄹㄴㅇㄹ
-
+ekfkfkfkfk
       // this is main
     //gil start
     // gil change 1
@@ -19,3 +19,8 @@ class MainActivity : AppCompatActivity() {
 
 
 }
+
+
+
+
+
