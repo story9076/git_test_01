@@ -22,7 +22,10 @@ class MainActivity : AppCompatActivity() {
 
 
         // ho 작성
+
+        // ho2 작성
     }
+
 
 
 }
