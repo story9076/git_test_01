@@ -24,6 +24,8 @@ class MainActivity : AppCompatActivity() {
         // ho 작성
 
         // ho2 작성
+
+        // ho 2 클래스 생성
     }
 
 
