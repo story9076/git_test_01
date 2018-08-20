@@ -11,17 +11,10 @@ class MainActivity : AppCompatActivity() {
 
 
 
-      // this is master
+      //gil start
 
 
-      // modyfy by web
-        // this is change
+        // gil change 1
 
-
-        // this is change 2
-
-        // this is change 3
-
-        // this is change 4
     }
 }
