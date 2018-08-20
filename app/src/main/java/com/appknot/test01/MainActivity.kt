@@ -12,10 +12,10 @@ class MainActivity : AppCompatActivity() {
 
 
       // this is main
+    //gil start
+    // gil change 1
+    //gil change2
+    }
 
-    }
-      //gil start
-        // gil change 1
-        //gil change2
-    }
+
 }
