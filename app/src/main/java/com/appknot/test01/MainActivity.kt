@@ -10,15 +10,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-      // this is main
-    //gil start
-    // gil change 1
-    //gil change2
+        // this is main
+        //gil start
+        // gil change 1
+        //gil change2
 
         // gil change3
+// 주석 이것도 추가
 
-
-    // main change 1
+        // main change 1
 
 
         // ho 작성
@@ -29,6 +29,17 @@ class MainActivity : AppCompatActivity() {
 
 
         // ctrine memo01
+
+        ///
+    }
+
+    /**
+     * 프레퍼런스 데이터 저장
+     * 클래스가 있다면 어쩌구 한다.
+     * 작성자: Gil
+     * 작성일자: 2018-08-21
+     */
+    fun aaa() {
 
     }
 
