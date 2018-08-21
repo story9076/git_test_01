@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         //gil change2
 
         // gil change3
-
+// 주석 이것도 추가
 
         // main change 1
 
@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
 
         // ctrine memo01
 
-        /// 
+        ///
     }
 
 
